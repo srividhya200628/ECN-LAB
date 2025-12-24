@@ -1,4 +1,5 @@
 # VERIFICATION OF KIRCHHOFF’S LAWS
+Register no:25007289
 
 **AIM:**
 
@@ -24,16 +25,15 @@
 
 **CIRCUIT DIAGRAM:**
 
+<img width="811" height="1280" alt="image" src="https://github.com/user-attachments/assets/36545214-c6c5-4bb8-826d-375996c79b7f" />
 
+**TABULAR COLUMN**
+![WhatsApp Image 2025-12-24 at 08 33 43](https://github.com/user-attachments/assets/550d04d7-9d9a-415e-9100-815decc9b10f)
 
-
-
-
-
-
-
-
-
+**CALCULATION**
+<img width="791" height="750" alt="image" src="https://github.com/user-attachments/assets/8f44ef22-3765-4ea9-9175-065bbdb4e7e2" />
+![WhatsApp Image 2025-12-24 at 08 34 43](https://github.com/user-attachments/assets/7ed27ee3-a9f3-4692-af21-3bfb11749302)
+![WhatsApp Image 2025-12-24 at 08 34 44](https://github.com/user-attachments/assets/80465fde-8fc7-4949-89ed-269dfde7266d)
 
 **PROCEDURE:**
 
